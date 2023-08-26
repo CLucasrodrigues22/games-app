@@ -1,4 +1,7 @@
-Instruções:
+## Games-app
+
+- Instruções:
+
 // Configurando front
 
 (Abra um terminal na raiz da aplicação e instale as dependências do vue e compile os component do front da aplicação)
